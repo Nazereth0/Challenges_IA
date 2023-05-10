@@ -1,8 +1,7 @@
 Chall 1 Programmation :
-
 - Dataset 
-- Réponse (modifié)
-[16:41]
+- Réponse 
+
 Contraintes: 
 
 - Pas résolvable avec des modèles en lignes
